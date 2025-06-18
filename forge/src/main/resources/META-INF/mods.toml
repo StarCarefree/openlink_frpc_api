@@ -1,0 +1,27 @@
+modLoader = "javafml"
+loaderVersion = "[0,)"
+#issueTrackerURL = ""
+license = "MIT"
+
+[[mods]]
+modId = "openlink_frpc_api"
+version = "${version}"
+displayName = "OpenLink Frpc API"
+authors = "Terry_MC"
+description = '''
+'''
+#logoFile = ""
+
+[[dependencies.openlink_frpc_api]]
+modId = "forge"
+mandatory = true
+versionRange = "[0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.openlink_frpc_api]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[0,)"
+ordering = "NONE"
+side = "BOTH"

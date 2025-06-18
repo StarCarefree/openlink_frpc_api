@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/openlink_frpc_api.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/openlink_frpc_api.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/openlink_frpc_api.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/openlink_frpc_api.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/openlink_frpc_api.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/openlink_frpc_api.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/openlink_frpc_api.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/openlink_frpc_api.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/openlink_frpc_api.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/openlink_frpc_api.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/openlink_frpc_api.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/openlink_frpc_api.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/openlink_frpc_api.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/openlink_frpc_api.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/openlink_frpc_api.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/openlink_frpc_api.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/openlink_frpc_api.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/openlink_frpc_api.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/openlink_frpc_api.quilt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/openlink_frpc_api.quilt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quilt/openlink_frpc_api.quilt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/quilt/openlink_frpc_api.quilt.test.iml" />
+    </modules>
+  </component>
+</project>

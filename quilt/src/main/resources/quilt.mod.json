@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "${group}",
+    "id": "openlink_frpc_api",
+    "version": "${version}",
+    "metadata": {
+      "name": "OpenLink Frpc API",
+      "description": "",
+      "contributors": {
+        "Terry_MC": "Author"
+      },
+      "icon": "assets/openlink_frpc_api/icon.png"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "entrypoints": {
+      "init": [
+        "fun.moystudio.openlink.frpc.quilt.ExampleModQuilt"
+      ]
+    },
+    "depends": [
+      {
+        "id": "quilt_loader",
+        "version": "*"
+      },
+      {
+        "id": "quilt_base",
+        "version": "*"
+      },
+      {
+        "id": "minecraft",
+        "version": "*"
+      }
+    ]
+  }
+}
