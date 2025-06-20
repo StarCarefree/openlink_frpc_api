@@ -1,0 +1,66 @@
+[20:09:12] [main/INFO] (Launcher) ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, 21.0.167, --assetIndex, 1.21-17, --assetsDir, C:\Users\13884\.gradle\caches\fabric-loom\assets, --gameDir, ., --fml.neoForgeVersion, 21.0.167, --fml.fmlVersion, 4.0.23, --fml.mcVersion, 1.21, --fml.neoFormVersion, 20240613.152323]
+[20:09:12] [main/INFO] (Launcher) JVM identified as Azul Systems, Inc. OpenJDK 64-Bit Server VM 21.0.7+6-LTS
+[20:09:12] [main/INFO] (Launcher) ModLauncher 11.0.4+main.d2e20e43 starting: java version 21.0.7 by Azul Systems, Inc.; OS Windows 11 arch amd64 version 10.0
+[20:09:12] [main/WARN] (FMLConfig) Configuration file D:\IDEAPros\OpenLinkFrpcAPI\neoforge\run\config\fml.toml is not correct. Correcting
+[20:09:12] [main/INFO] (FMLConfig) Incorrect key [disableConfigWatcher] was corrected from null to false
+[20:09:12] [main/INFO] (FMLConfig) Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[20:09:12] [main/INFO] (FMLConfig) Incorrect key [earlyWindowSquir] was corrected from null to false
+[20:09:12] [main/INFO] (ImmediateWindowHandler) Loading ImmediateWindowProvider fmlearlywindow
+[20:09:12] [main/INFO] (EARLYDISPLAY) Trying GL version 4.6
+[20:09:12] [main/INFO] (EARLYDISPLAY) Requested GL version 4.6 got version 4.6
+[20:09:12] [main/INFO] (mixin) SpongePowered MIXIN Subsystem Version=0.8.6 Source=union:/C:/Users/13884/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.14.0+mixin.0.8.6/c265173c84346e9e5d42a2384b2b02bd39a4a899/sponge-mixin-0.14.0+mixin.0.8.6.jar%23119!/ Service=ModLauncher Env=CLIENT
+[20:09:13] [main/INFO] (ModDiscoverer) Found mod file "neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar" [locator: neoforge devenv provider ([C:\Users\13884\.gradle\caches\fabric-loom\minecraftMaven\net\minecraft\neoforge-21.0.167-minecraft-merged\1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167\neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar])]
+[20:09:13] [main/INFO] (ModDiscoverer) Found mod file "neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar" [locator: neoforge devenv provider ([C:\Users\13884\.gradle\caches\fabric-loom\minecraftMaven\net\minecraft\neoforge-21.0.167-minecraft-merged\1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167\neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar])]
+[20:09:13] [main/INFO] (ModDiscoverer) Found mod file "main" [locator: userdev mods and services, reader: mod manifest]
+[20:09:13] [main/INFO] (ModDiscoverer) Found mod file "neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar" [locator: userdev mods and services, reader: mod manifest]
+[20:09:13] [main/INFO] (ModDiscoverer) Found mod file "15978239457167760390.jar" [locator: userdev mods and services, reader: mod manifest]
+[20:09:13] [pool-5-thread-1/INFO] (EARLYDISPLAY) GL info: NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2 GL version 4.6.0 NVIDIA 576.52, NVIDIA Corporation
+[20:09:13] [main/INFO] (ModDiscoverer) Found gamelibrary file "mixinextras-neoforge-0.3.5.jar" [locator: userdev mods and services, reader: mod manifest]
+[20:09:13] [main/WARN] (JarSelector) Attempted to select a dependency jar for JarJar which was passed in as source: mixinextras-neoforge-0.3.5.jar. Using Mod File: C:\Users\13884\.gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-neoforge\0.3.5\ef3ffcf309dae656517b2f120189b1c9b21737dd\mixinextras-neoforge-0.3.5.jar
+[20:09:13] [main/INFO] (JarInJarDependencyLocator) No dependencies to load found. Skipping!
+[20:09:13] [main/INFO] (FMLServiceProvider) Loading coremod script-engine for [neoforge]
+[20:09:15] [main/INFO] (LaunchServiceHandler) Launching target 'forgeclientuserdev' with arguments [--version, 21.0.167, --gameDir, ., --assetsDir, C:\Users\13884\.gradle\caches\fabric-loom\assets, --assetIndex, 1.21-17]
+[20:09:15] [main/INFO] (unprotect) Found 8254 Minecraft classes
+[206月2025 20:09:18.139] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 229 Datafixer optimizations took 785 milliseconds
+[206月2025 20:09:18.265] [pool-11-thread-1/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[206月2025 20:09:26.417] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[206月2025 20:09:26.418] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[206月2025 20:09:26.424] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[206月2025 20:09:26.426] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[206月2025 20:09:26.427] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[206月2025 20:09:26.560] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/13884/.gradle/caches/fabric-loom/minecraftMaven/net/minecraft/neoforge-21.0.167-minecraft-merged/1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167/neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[206月2025 20:09:26.561] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/13884/.gradle/caches/fabric-loom/minecraftMaven/net/minecraft/neoforge-21.0.167-minecraft-merged/1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167/neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[206月2025 20:09:26.606] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[206月2025 20:09:26.624] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[206月2025 20:09:26.692] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[206月2025 20:09:26.966] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.0.167, for MC 1.21
+[206月2025 20:09:27.026] [modloading-worker-0/INFO] [fun.moystudio.openlink.frpc.OpenLinkFrpcApi/]: OpenLinkFrpcApi initialized.
+[206月2025 20:09:27.856] [Render thread/INFO] [net.neoforged.neoforge.gametest.GameTestHooks/]: Enabled Gametest Namespaces: []
+[206月2025 20:09:27.959] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources, mod/generated_fa1b30a, mod/openlink_frpc_api, mod/neoforge
+[206月2025 20:09:28.119] [Worker-Main-1/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
+[206月2025 20:09:28.119] [Worker-Main-12/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
+[206月2025 20:09:29.066] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[206月2025 20:09:29.088] [Render thread/ERROR] [net.minecraft.client.Minecraft/]: Shutdown failure!
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.HashMap.forEach(HashMap.java:1432) ~[?:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.client.renderer.texture.TextureManager.close(TextureManager.java:173) ~[neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar%23191!/:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.client.Minecraft.close(Minecraft.java:1122) ~[neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar%23191!/:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.client.Minecraft.destroy(Minecraft.java:1094) ~[neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar%23191!/:?]
+	at TRANSFORMER/minecraft@1.21/net.minecraft.client.main.Main.main(Main.java:236) ~[neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.40359-v2-neoforge-21.0.167.jar%23191!/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.23/net.neoforged.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:136) ~[loader-4.0.23.jar%23104!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.23/net.neoforged.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:124) ~[loader-4.0.23.jar%23104!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.23/net.neoforged.fml.loading.targets.NeoForgeClientUserdevLaunchHandler.runService(NeoForgeClientUserdevLaunchHandler.java:23) ~[loader-4.0.23.jar%23104!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.23/net.neoforged.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:118) ~[loader-4.0.23.jar%23104!/:4.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.4.jar%23106!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.4.jar%23106!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.4.jar%23106!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.4.jar%23106!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.4.jar%23106!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.4.jar%23106!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.4.jar%23106!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?]
+	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) [dev-launch-injector-0.2.1+build.8.jar:?]
+	at dev.architectury.transformer.TransformerRuntime.main(TransformerRuntime.java:220) [architectury-transformer-5.2.87-runtime.jar:5.2.87]
