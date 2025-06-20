@@ -58,6 +58,7 @@ subprojects {
     publishing {
         publications {
             mavenJava(MavenPublication) {
+                groupId = "fun.moystudio.openlink.frpc"
                 artifactId = base.archivesName.get()
                 from components.java
             }
