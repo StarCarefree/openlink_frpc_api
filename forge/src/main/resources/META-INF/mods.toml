@@ -17,11 +17,11 @@ modId = "forge"
 mandatory = true
 versionRange = "[0,)"
 ordering = "NONE"
-side = "BOTH"
+side = "CLIENT"
 
 [[dependencies.openlink_frpc_api]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[0,)"
 ordering = "NONE"
-side = "BOTH"
+side = "CLIENT"

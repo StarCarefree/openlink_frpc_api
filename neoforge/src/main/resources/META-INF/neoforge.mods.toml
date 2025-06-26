@@ -17,11 +17,11 @@ modId = "neoforge"
 type = "required"
 versionRange = "[0,)"
 ordering = "NONE"
-side = "BOTH"
+side = "CLIENT"
 
 [[dependencies.openlink_frpc_api]]
 modId = "minecraft"
 type = "required"
 versionRange = "[0,)"
 ordering = "NONE"
-side = "BOTH"
+side = "CLIENT"
