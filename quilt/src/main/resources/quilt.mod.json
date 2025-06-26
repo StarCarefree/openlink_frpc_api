@@ -10,7 +10,7 @@
       "contributors": {
         "Terry_MC": "Author"
       },
-      "icon": "assets/openlink_frpc_api/icon.png"
+      "icon": "icon.png"
     },
     "intermediate_mappings": "net.fabricmc:intermediary",
     "entrypoints": {

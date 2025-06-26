@@ -10,7 +10,7 @@ displayName = "OpenLink Frpc API"
 authors = "Terry_MC"
 description = '''
 '''
-#logoFile = ""
+logoFile = "icon.png"
 
 [[dependencies.openlink_frpc_api]]
 modId = "forge"
